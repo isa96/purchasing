@@ -2,11 +2,6 @@
 
 
 ## Table of Contents
-* [Preparation](#Stage-0-Preparation)
-    * [Problem Statement](#01-Problem-Statement)
-    * [Goal](#02-Goal)
-    * [Objective](#03-Objective)
-    * [Business Metrics](#04-Business-Metrics)
 * [Exploratory Data Analysis](#Stage-1-Exploratory-Data-Analysis)
     * [Data Exploration](#11-Data-Exploration)
     * [Data Understanding](#12-Data-Understanding)
@@ -31,16 +26,6 @@
 ├── README.md                             : Report
 └── requirements.txt                      : requirements to run this model
 ```
-
-## Stage 0. Preparation
-
-### 0.1. Problem Statement
-
-### 0.2. Goal
-
-### 0.3. Objective
-
-### 0.4. Business Metrics
 
 ## Stage 1. Exploratory Data Analysis
 
