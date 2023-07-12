@@ -1,4 +1,4 @@
-# Online Shoppers Purchasing Intention
+# Online Purchasing 
 
 
 ## Table of Contents
